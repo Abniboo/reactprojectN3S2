@@ -1,0 +1,7 @@
+Student name           id 
+1,Abenezer Alemayehu     uu78829R
+2,Abereham Zekareyas     uu78949R
+3,Alazar Zelek           UU78911R
+4,Birik nagashi        UU81065
+5,Elsay wondimu       UU80185R
+6,yonas getaneh       uu78898R
